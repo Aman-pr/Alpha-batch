@@ -1,1 +1,1 @@
-The course of alpha batch of DAS with java
+The Alpha batch course of DAS with java
